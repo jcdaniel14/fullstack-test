@@ -99,7 +99,7 @@ The existing code provides a basic structure for the User Manager interface, inc
 1. Fork the repository.
 2. Create a new branch with your name (e.g., `john-doe-solution`).
 3. Implement your solution on this branch.
-4. Once you're satisfied with your work, create a Pull Request (PR) to the `development` branch of the original repository.
+4. Once you're satisfied with your work, create a Pull Request (PR) to the `main` branch of the original repository.
 5. In your PR description, please include:
    - A brief overview of your implementation
    - Any assumptions you made
